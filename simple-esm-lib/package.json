@@ -1,0 +1,10 @@
+{
+  "name": "simple-esm-lib",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple ESM-only library",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  }
+}

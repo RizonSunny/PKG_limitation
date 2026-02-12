@@ -1,0 +1,12 @@
+{
+  "name": "my-esm-package",
+  "version": "1.0.0",
+  "description": "A custom ESM-only package to test pkg bundling issues",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dependencies": {
+    "simple-esm-lib": "file:.././simple-esm-lib"
+  }
+}
