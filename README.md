@@ -1,4 +1,4 @@
-# NCC_PKG - Testing @yao-pkg/pkg ESM Limitations
+# A simple node js for testing @yao-pkg/pkg ESM Limitations
 
 A Node.js Express application designed to test and demonstrate @yao-pkg/pkg's limitations when bundling ESM (ECMAScript Modules) packages.
 
